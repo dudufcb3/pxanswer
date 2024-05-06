@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         @@Perplexity Helper MX-CLx
+// @name         @@Perplexity Helper MX-CL-CL
 // @namespace    http://tampermonkey.net/
 // @version      2024-03-21
 // @description  try to take over the world!
