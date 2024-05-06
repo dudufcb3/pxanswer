@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         @@Perplexity Helper MX-CL
+// @name         @@Perplexity Helper MX-CLx
 // @namespace    http://tampermonkey.net/
 // @version      2024-03-21
 // @description  try to take over the world!
@@ -10,6 +10,8 @@
 // @match        https://poe.com/*
 // @match        https://you.com/*
 // @match       https://duckduckgo.com/*
+// @downloadURL  https://https://raw.githubusercontent.com/dudufcb3/pxanswer/main/Px.js
+// @updateURL    https://https://raw.githubusercontent.com/dudufcb3/pxanswer/main/Px.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=operatorpanelcl.com
 // @grant        GM_setValue
 // @grant        GM_getValue
@@ -1428,7 +1430,7 @@
 
             - Servirá para crear una mejor respuesta, más completa, sin embargo solo podrás utilizarla si tu respuesta necesita estos datos.
             - No menciones cosas de tu información si no se te la preguntan o si el contexto del mensaje no la necesita.
-            
+
             ${personaje.edad}
 
             Otros datos de interes tuyos:
